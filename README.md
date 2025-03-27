@@ -1,1 +1,1 @@
-# FedericaBellini22-NeuralNetworks_Project24-25
+# NeuralNetworks_Project24-25
